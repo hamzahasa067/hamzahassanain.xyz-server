@@ -7,5 +7,5 @@ const port = process.env.PORT;
 
 // new commnet un saved
 app.listen(port, () => {
-    console.log("Server is running .....");   
+    console.log("Server is running .....");
 })
